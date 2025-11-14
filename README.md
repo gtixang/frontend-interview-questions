@@ -3,7 +3,7 @@
 ## JavaScript
 
 - [`typeof` оператор и его подводные камни](javascript/typeof.md)
-- [Типы данных](javascript/types/README.md)
+- [Переменные](javascript/variables.md)
 - [Hoisting](javascript/hoisting/README.md)
 - [Замыкания](javascript/closures/README.md)
 
