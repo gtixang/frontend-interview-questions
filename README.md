@@ -1,4 +1,4 @@
-# Frontend Interview Questions
+# interview-guide
 
 ## JavaScript
 
